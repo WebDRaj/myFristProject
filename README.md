@@ -1,0 +1,2 @@
+# myFristProject
+Practicing GitHub
